@@ -1,0 +1,15 @@
+body{
+    background-color: #e2eefa;
+}
+.heading{
+    background-color: #6386a4;
+}
+.table th{
+    border: 2px solid #71a8b1;
+}
+.table td{
+    border:2px solid #71a8b1;
+}
+.terms{
+    color: #97bed1;
+}
